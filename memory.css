@@ -1,0 +1,21 @@
+
+table, td {
+  border: 5px solid black;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+td {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+
+  text-align: center;
+
+}
